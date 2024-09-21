@@ -6,7 +6,6 @@ def multiply(x , y):
   return x*y
 def divide(x , y):
   return x/y    
-print(divide(9 , 3))
 number1 = int(input("Enter the first number:"))
 number2 = int(input("Enter the second number:"))
 operator = input("Enter the operator +,-,*,/ :")
